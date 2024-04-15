@@ -1,0 +1,8 @@
+1	Bàng Tiến	Thành	btthanh2004@gmail.com	0397745896	01-01-2004	1	90000	0.2	1
+2	Nguyễn Văn	A	NVA@gmail.com	0397745896	01-01-2004	2	90000	0.2	1
+3	Trần Thị	B	TTB@gmail.com	0397745896	01-01-2004	3	90000	0.2	1
+100	John 	Doe	john.doe@example.com	555-123-4567	04-01-2024	1	60000	0.1	3
+101	Jane	Smith	jane.smith@example.com	555-987-6543	03-15-2024	2	55000	0.15	2
+102	Michael	Johnson	michael.johnson@example.com	555-555-5555	02-20-2024	3	40000	0.05	1
+103	Linda	Williams	linda.williams@example.com	555-111-2222	01-10-2024	1	65000	0.12	3
+104	David	Brown	david.brown@example.com	555-777-8888	04-10-2024	2	58000	0.18	2

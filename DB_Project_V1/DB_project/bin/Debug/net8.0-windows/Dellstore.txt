@@ -1,0 +1,8 @@
+categories	(category, categoryname)	2
+cust_hist	(customerid, orderid, prod_id)	 0
+customers	(customerid, firstname, lastname, address1, address2, city, state, zip, country, region, email, phone, creditcardtype, creditcard, creditcardexpiration, username, password, age, income, gender)	650622
+inventory	(prod_id, quan_in_stock, sales)	0
+orderlines	(orderlineid, orderid, prod_id, quantity, orderdate)	16
+orders	(orderid, orderdate, customerid, netamount, tax, totalamount)	2
+products	(prod_id, category, title, actor, price, special, common_prod_id)	12
+reorder	(prod_id, date_low, quan_low, date_reordered, quan_reordered, date_expected)	42

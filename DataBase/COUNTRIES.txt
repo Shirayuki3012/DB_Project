@@ -1,0 +1,6 @@
+1	United States	2
+2	Canada	2
+3	United Kingdom	1
+4	Germany	1
+5	Japan	3
+6	Việt Nam	3

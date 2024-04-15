@@ -1,0 +1,6 @@
+101	123 Main St	12345	Seattle	Washington	1
+102	456 Elm Ave	67890	Portland	Oregon	2
+103	789 Oak Rd	54321	San Francisco	California	3
+104	101 Maple Ln	98765	Los Angeles	California	3
+105	222 Pine St	13579	New York	New York	4
+106	333 Cedar Ave	24680	Chicago	Illinois	5
