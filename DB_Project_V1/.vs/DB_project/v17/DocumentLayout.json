@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC4F6B5-368C-4555-8A00-774E720E902E}|DB_project\\DB_project.csproj|C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\db_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BC4F6B5-368C-4555-8A00-774E720E902E}|DB_project\\DB_project.csproj|solutionrelative:db_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC4F6B5-368C-4555-8A00-774E720E902E}|DB_project\\DB_project.csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC4F6B5-368C-4555-8A00-774E720E902E}|DB_project\\DB_project.csproj|solutionrelative:db_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\Form1.cs",
+              "RelativeDocumentMoniker": "DB_project\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\Form1.cs",
+              "RelativeToolTip": "DB_project\\Form1.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:28:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\Form1.cs",
+              "RelativeDocumentMoniker": "DB_project\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\Form1.cs [Design]",
+              "RelativeToolTip": "DB_project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:28:23.21Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

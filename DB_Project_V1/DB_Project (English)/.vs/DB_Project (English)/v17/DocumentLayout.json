@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project (english)\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project (english)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project (english)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project (english)\\insertupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|solutionrelative:insertupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|c:\\users\\admin\\desktop\\csdl\\db_project\\db_project_v1\\db_project (english)\\insertupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1529F60-0E42-4EE8-A694-8D384AAF6AE9}|DB_Project (English).csproj|solutionrelative:insertupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:31:01.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAawKEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:26:31.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\InsertUpdate.cs",
+              "RelativeDocumentMoniker": "InsertUpdate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\InsertUpdate.cs",
+              "RelativeToolTip": "InsertUpdate.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwG4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:22:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\InsertUpdate.cs",
+              "RelativeDocumentMoniker": "InsertUpdate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\InsertUpdate.cs [Design]",
+              "RelativeToolTip": "InsertUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:22:32.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_Project (English)\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:16:50.995Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

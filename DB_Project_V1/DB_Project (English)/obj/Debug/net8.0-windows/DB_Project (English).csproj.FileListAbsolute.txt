@@ -1,0 +1,26 @@
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\DB_Project (English).exe
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\DB_Project (English).deps.json
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\DB_Project (English).runtimeconfig.json
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\DB_Project (English).dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\DB_Project (English).pdb
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_project.Form1.resources
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_project.InsertUpdate.resources
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_project.IUColumn.resources
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Proje.D775FB63.Up2Date
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\refint\DB_Project (English).dll
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).pdb
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\DB_Project (English).genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\CSDL\DB_Project\DB_Project_V1\DB_Project (English)\obj\Debug\net8.0-windows\ref\DB_Project (English).dll

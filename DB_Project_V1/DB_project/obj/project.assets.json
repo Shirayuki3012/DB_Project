@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_project\\DB_project\\DB_project.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\DB_project.csproj",
       "projectName": "DB_project",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_project\\DB_project\\DB_project.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\DB_project.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_project\\DB_project\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\CSDL\\DB_Project\\DB_Project_V1\\DB_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

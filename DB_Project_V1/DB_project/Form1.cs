@@ -1,15 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Windows.Forms.VisualStyles;
-
-namespace DB_project
+﻿namespace DB_project
 {
     public partial class Form1 : Form
     {
@@ -31,6 +20,7 @@ namespace DB_project
                 button5.Enabled = true;
                 button6.Enabled = true;
                 button7.Enabled = comboBox2.SelectedIndex == 1;
+                button8.Enabled = comboBox2.SelectedIndex == 1;
             }
         }
 
